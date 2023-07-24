@@ -13,6 +13,8 @@
 * **Tensorflow**
 * **Keras**
 
+📌 You can **<a href="https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000">click on this link</a>** to access the dataset used in the project:
+
 You can see the picture of the project below:
 
  ![Skin-Cancer-Classification-GUI](https://github.com/tohid-yousefi/GUI_Python_Skin_Cancer_Classification_Project_with_Tkinter/assets/31246004/bcc53c31-4e0d-4677-b695-467addaeccf5)
